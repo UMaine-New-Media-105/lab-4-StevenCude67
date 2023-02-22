@@ -16,3 +16,5 @@ Link to code: https://editor.p5js.org/StevenCude67/sketches/xbt9wKJav
 
 Ex 3
 ---------------------------------
+Create Sprite with functions that changed when clicked
+https://editor.p5js.org/StevenCude67/sketches/fd-cm37EY
